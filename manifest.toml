@@ -1,19 +1,18 @@
 packaging_format = 2
 
-id = "adminer"
-name = "Adminer"
+id = "adminerevo"
+name = "AdminerEvo"
 description.en = "Database management tool"
 description.fr = "Gestionnaire de base de données"
 
-version = "4.8.1~ynh7"
+version = "4.8.4~ynh1"
 
 maintainers = []
 
 [upstream]
 license = "Apache-2.0"
-website = "https://www.adminer.org/"
-demo = "https://demo.adminer.org/adminer.php?username="
-code = "https://github.com/vrana/adminer/"
+website = "https://docs.adminerevo.org"
+code = "https://github.com/adminerevo/adminerevo"
 
 [integration]
 yunohost = ">= 11.2"
@@ -34,7 +33,7 @@ ram.runtime = "50M"
 
     [install.path]
     type = "path"
-    default = "/adminer"
+    default = "/adminerevo"
 
     [install.init_main_permission]
     type = "group"
@@ -52,4 +51,4 @@ ram.runtime = "50M"
     main.url = "/"
 
     [resources.apt]
-    packages = "php8.2-mysql, php8.2-sqlite3, php8.2-pgsql"
+    packages = "php8.3-mysql, php8.3-sqlite3, php8.3-pgsql"
