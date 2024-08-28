@@ -1,0 +1,42 @@
+#!/bin/bash
+
+#=================================================
+# GENERIC START
+#=================================================
+# IMPORT GENERIC HELPERS
+#=================================================
+
+source _common.sh
+source /usr/share/yunohost/helpers
+
+#=================================================
+# DOWNLOAD, CHECK AND UNPACK SOURCE
+#=================================================
+# Copy source files
+ynh_secure_remove $install_dir
+
+mkdir -p $install_dir
+
+#copy files from with_root_access folder to the install_dir
+cp -a ../sources/with_root_access/. $install_dir
+
+chmod 750 "$install_dir"
+chmod -R o-rwx "$install_dir"
+chown -R $app:www-data "$install_dir"
+
+#=================================================
+# PHP-FPM CONFIGURATION
+#=================================================
+ynh_script_progression --message="Upgrading PHP-FPM configuration..." --weight=1
+
+# Create a dedicated PHP-FPM config
+ynh_add_fpm_config
+
+# Create a dedicated NGINX config
+ynh_add_nginx_config
+
+#=================================================
+# END OF SCRIPT
+#=================================================
+
+ynh_script_progression --message="Upgrade of $app completed" --last
