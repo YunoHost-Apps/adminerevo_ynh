@@ -3,15 +3,15 @@ N.B.: README ini dibuat secara otomatis oleh <https://github.com/YunoHost/apps/t
 Ini TIDAK boleh diedit dengan tangan.
 -->
 
-# Adminer untuk YunoHost
+# AdminerEvo untuk YunoHost
 
-[![Tingkat integrasi](https://dash.yunohost.org/integration/adminer.svg)](https://ci-apps.yunohost.org/ci/apps/adminer/) ![Status kerja](https://ci-apps.yunohost.org/ci/badges/adminer.status.svg) ![Status pemeliharaan](https://ci-apps.yunohost.org/ci/badges/adminer.maintain.svg)
+[![Tingkat integrasi](https://dash.yunohost.org/integration/adminerevo.svg)](https://ci-apps.yunohost.org/ci/apps/adminerevo/) ![Status kerja](https://ci-apps.yunohost.org/ci/badges/adminerevo.status.svg) ![Status pemeliharaan](https://ci-apps.yunohost.org/ci/badges/adminerevo.maintain.svg)
 
-[![Pasang Adminer dengan YunoHost](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=adminer)
+[![Pasang AdminerEvo dengan YunoHost](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=adminerevo)
 
 *[Baca README ini dengan bahasa yang lain.](./ALL_README.md)*
 
-> *Paket ini memperbolehkan Anda untuk memasang Adminer secara cepat dan mudah pada server YunoHost.*  
+> *Paket ini memperbolehkan Anda untuk memasang AdminerEvo secara cepat dan mudah pada server YunoHost.*  
 > *Bila Anda tidak mempunyai YunoHost, silakan berkonsultasi dengan [panduan](https://yunohost.org/install) untuk mempelajari bagaimana untuk memasangnya.*
 
 ## Ringkasan
@@ -24,29 +24,25 @@ AdminerEvo is a web-based database management interface, with a focus on securit
 
 ## Tangkapan Layar
 
-![Tangkapan Layar pada Adminer](./doc/screenshots/screenshot.png)
-
-## :red_circle: Antifitur
-
-- **Upstream not maintained**: This software is not maintained anymore. Expect it to break down over time, be exposed to unfixed security breaches, etc.
+![Tangkapan Layar pada AdminerEvo](./doc/screenshots/screenshot.png)
 
 ## Dokumentasi dan sumber daya
 
 - Website aplikasi resmi: <https://docs.adminerevo.org/>
 - Depot kode aplikasi hulu: <https://github.com/adminerevo/adminerevo>
-- Gudang YunoHost: <https://apps.yunohost.org/app/adminer>
-- Laporkan bug: <https://github.com/YunoHost-Apps/adminer_ynh/issues>
+- Gudang YunoHost: <https://apps.yunohost.org/app/adminerevo>
+- Laporkan bug: <https://github.com/YunoHost-Apps/adminerevo_ynh/issues>
 
 ## Info developer
 
-Silakan kirim pull request ke [`testing` branch](https://github.com/YunoHost-Apps/adminer_ynh/tree/testing).
+Silakan kirim pull request ke [`testing` branch](https://github.com/YunoHost-Apps/adminerevo_ynh/tree/testing).
 
 Untuk mencoba branch `testing`, silakan dilanjutkan seperti:
 
 ```bash
-sudo yunohost app install https://github.com/YunoHost-Apps/adminer_ynh/tree/testing --debug
+sudo yunohost app install https://github.com/YunoHost-Apps/adminerevo_ynh/tree/testing --debug
 atau
-sudo yunohost app upgrade adminer -u https://github.com/YunoHost-Apps/adminer_ynh/tree/testing --debug
+sudo yunohost app upgrade adminerevo -u https://github.com/YunoHost-Apps/adminerevo_ynh/tree/testing --debug
 ```
 
 **Info lebih lanjut mengenai pemaketan aplikasi:** <https://yunohost.org/packaging_apps>
