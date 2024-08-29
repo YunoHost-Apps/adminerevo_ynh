@@ -53,7 +53,6 @@ ram.runtime = "50M"
     [resources.sources.css]
     url = "https://raw.githubusercontent.com/Niyko/Hydra-Dark-Theme-for-Adminer/master/adminer.css"
     sha256 = "28eaab1d9ea75a8a8c4f191449569694306ea746f3df52a189c49d0a1bc5b74d"
-    rename= "hydra.css"
     in_subdir = false
 
     [resources.system_user]
