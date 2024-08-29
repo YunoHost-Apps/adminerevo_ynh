@@ -26,7 +26,7 @@ AdminerEvo is a web-based database management interface, with a focus on securit
 
 ## Dokumentasi dan sumber daya
 
-- Website aplikasi resmi: <https://docs.adminerevo.org>
+- Website aplikasi resmi: <https://docs.adminerevo.org/>
 - Depot kode aplikasi hulu: <https://github.com/adminerevo/adminerevo>
 - Gudang YunoHost: <https://apps.yunohost.org/app/adminerevo>
 - Laporkan bug: <https://github.com/YunoHost-Apps/adminerevo_ynh/issues>

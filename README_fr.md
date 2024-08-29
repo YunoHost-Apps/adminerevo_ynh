@@ -26,7 +26,7 @@ AdminerEvo est une interface de gestion de la base de données basée sur le Web
 
 ## Documentations et ressources
 
-- Site officiel de l’app : <https://docs.adminerevo.org>
+- Site officiel de l’app : <https://docs.adminerevo.org/>
 - Dépôt de code officiel de l’app : <https://github.com/adminerevo/adminerevo>
 - YunoHost Store : <https://apps.yunohost.org/app/adminerevo>
 - Signaler un bug : <https://github.com/YunoHost-Apps/adminerevo_ynh/issues>
