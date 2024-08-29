@@ -51,7 +51,7 @@ ram.runtime = "50M"
     in_subdir = false
 
     url = "https://raw.githubusercontent.com/Niyko/Hydra-Dark-Theme-for-Adminer/master/adminer.css"
-    sha256 = "e9a9bc2cc2ac46d6d92f008de9379d2b21a3764a5f8956ed68456e190814b149"
+    sha256 = "28eaab1d9ea75a8a8c4f191449569694306ea746f3df52a189c49d0a1bc5b74d"
     rename= "hydra.css"
     in_subdir = false
 
