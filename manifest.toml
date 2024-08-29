@@ -12,7 +12,6 @@ maintainers = []
 [upstream]
 license = "Apache-2.0"
 website = "https://docs.adminerevo.org/"
-demo = "https://demo.adminer.org/adminer.php?username="
 code = "https://github.com/adminerevo/adminerevo"
 
 [integration]
