@@ -1,7 +1,7 @@
 packaging_format = 2
 
-id = "adminerevo"
-name = "AdminerEvo"
+id = "adminer"
+name = "Adminer"
 description.en = "Database management tool"
 description.fr = "Gestionnaire de base de données"
 
@@ -11,11 +11,13 @@ maintainers = []
 
 [upstream]
 license = "Apache-2.0"
-website = "https://docs.adminerevo.org"
+website = "https://docs.adminerevo.org/"
+demo = "https://demo.adminer.org/adminer.php?username="
 code = "https://github.com/adminerevo/adminerevo"
 
 [integration]
-yunohost = ">= 11.2"
+yunohost = ">= 11.2.27"
+helpers_version = "2.1"
 architectures = "all"
 multi_instance = true
 
@@ -33,7 +35,7 @@ ram.runtime = "50M"
 
     [install.path]
     type = "path"
-    default = "/adminerevo"
+    default = "/adminer"
 
     [install.init_main_permission]
     type = "group"
@@ -43,9 +45,19 @@ ram.runtime = "50M"
     type = "user"
 
 [resources]
+
+    [resources.sources]
+
+    [resources.sources.main]
+    url = "https://github.com/adminerevo/adminerevo/releases/download/v4.8.4/adminer-4.8.4.php"
+    sha256 = "e9a9bc2cc2ac46d6d92f008de9379d2b21a3764a5f8956ed68456e190814b149"
+    rename= "index.php"
+    in_subdir = false
+
     [resources.system_user]
 
     [resources.install_dir]
+    group = "www-data:r-x"
 
     [resources.permissions]
     main.url = "/"
