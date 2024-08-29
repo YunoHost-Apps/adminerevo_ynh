@@ -19,6 +19,11 @@ EZ editatu eskuz.
 AdminerEvo is a web-based database management interface, with a focus on security, user experience, performance, functionality and size. It is available for download as a single self-contained PHP file, making it easy to deploy anywhere. AdminerEvo works out of the box with MySQL, MariaDB, PostgreSQL, SQLite, MS SQL, Oracle, Elasticsearch and MongoDB. In addition, there are plugins for SimpleDB, Firebird and ClickHouse. AdminerEvo is developed by the AdminerEvo community and is a continuation of the Adminer project by Jakub Vrána.
 
 **Paketatutako bertsioa:** 4.8.4~ynh1
+
+## Pantaila-argazkiak
+
+![AdminerEvo(r)en pantaila-argazkia](./doc/screenshots/screenshot.png)
+
 ## Dokumentazioa eta baliabideak
 
 - Aplikazioaren webgune ofiziala: <https://docs.adminerevo.org/>
