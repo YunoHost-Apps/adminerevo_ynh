@@ -1,7 +1,7 @@
 packaging_format = 2
 
-id = "adminer"
-name = "Adminer"
+id = "adminerevo"
+name = "AdminerEvo"
 description.en = "Database management tool"
 description.fr = "Gestionnaire de base de données"
 
