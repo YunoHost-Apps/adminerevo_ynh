@@ -34,7 +34,7 @@ ram.runtime = "50M"
 
     [install.path]
     type = "path"
-    default = "/adminer"
+    default = "/adminerevo"
 
     [install.init_main_permission]
     type = "group"
