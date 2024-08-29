@@ -26,7 +26,7 @@ AdminerEvo is a web-based database management interface, with a focus on securit
 
 ## Documentación e recursos
 
-- Web oficial da app: <https://docs.adminerevo.org>
+- Web oficial da app: <https://docs.adminerevo.org/>
 - Repositorio de orixe do código: <https://github.com/adminerevo/adminerevo>
 - Tenda YunoHost: <https://apps.yunohost.org/app/adminerevo>
 - Informar dun problema: <https://github.com/YunoHost-Apps/adminerevo_ynh/issues>
