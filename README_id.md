@@ -20,8 +20,6 @@ AdminerEvo is a web-based database management interface, with a focus on securit
 
 **Versi terkirim:** 4.8.4~ynh1
 
-**Demo:** <https://demo.adminer.org/adminer.php?username=>
-
 ## Tangkapan Layar
 
 ![Tangkapan Layar pada AdminerEvo](./doc/screenshots/screenshot.png)
