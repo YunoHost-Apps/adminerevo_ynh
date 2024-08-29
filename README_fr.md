@@ -20,8 +20,6 @@ AdminerEvo est une interface de gestion de la base de données basée sur le Web
 
 **Version incluse :** 4.8.4~ynh1
 
-**Démo :** <https://demo.adminer.org/adminer.php?username=>
-
 ## Captures d’écran
 
 ![Capture d’écran de AdminerEvo](./doc/screenshots/screenshot.png)

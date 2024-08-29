@@ -20,8 +20,6 @@ AdminerEvo is a web-based database management interface, with a focus on securit
 
 **分发版本：** 4.8.4~ynh1
 
-**演示：** <https://demo.adminer.org/adminer.php?username=>
-
 ## 截图
 
 ![AdminerEvo 的截图](./doc/screenshots/screenshot.png)
