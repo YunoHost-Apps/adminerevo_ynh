@@ -50,6 +50,11 @@ ram.runtime = "50M"
     rename= "index.php"
     in_subdir = false
 
+    url = "https://raw.githubusercontent.com/Niyko/Hydra-Dark-Theme-for-Adminer/master/adminer.css"
+    sha256 = "e9a9bc2cc2ac46d6d92f008de9379d2b21a3764a5f8956ed68456e190814b149"
+    rename= "hydra.css"
+    in_subdir = false
+
     [resources.system_user]
 
     [resources.install_dir]
