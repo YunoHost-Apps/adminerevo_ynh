@@ -51,8 +51,8 @@ ram.runtime = "50M"
     in_subdir = false
 
     [resources.sources.css]
-    url = "https://raw.githubusercontent.com/CodeShakingSheep/Hydra-Dark-Theme-for-Adminer/master/adminer.css"
-    sha256 = "ebf3f32e5dae170edacc7d1c82ae248d7056a62176c1ab16cc0deff2af4e0d3f"
+    url = "https://raw.githubusercontent.com/CodeShakingSheep/Hydra-Dark-Theme-for-AdminerEvo/master/adminer.css"
+    sha256 = "cb5a0f9ae57094f69b75d263c5bb37fee70c43f6d6248b1af48d4c6b8970b0a5"
     rename = "adminer.css"
     in_subdir = false
 
