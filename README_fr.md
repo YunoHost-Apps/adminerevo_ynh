@@ -18,7 +18,7 @@ Il NE doit PAS être modifié à la main.
 
 AdminerEvo est une interface de gestion de la base de données basée sur le Web, en mettant l'accent sur la sécurité, l'expérience utilisateur, les performances, les fonctionnalités et la taille. Il est disponible en téléchargement comme un seul fichier PHP autonome, ce qui facilite le déploiement n'importe où. AdminerEvo est disponible pour MySQL, MariaDB, PostgreSQL, SQLite, MS SQL, Oracle, Elasticsearch et MongoDB. De plus, il existe des plugins pour SimpledB, Firebird et Clickhouse. AdminerEvo est développé par la communauté AdminerEvo et est une continuation du projet Adminer par Jakub Vrána.
 
-**Version incluse :** 4.8.4~ynh1
+**Version incluse :** 4.8.4~ynh2
 
 ## Captures d’écran
 
