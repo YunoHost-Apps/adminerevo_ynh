@@ -5,7 +5,9 @@ Hij mag NIET handmatig aangepast worden.
 
 # AdminerEvo voor Yunohost
 
-[![Integratieniveau](https://dash.yunohost.org/integration/adminerevo.svg)](https://ci-apps.yunohost.org/ci/apps/adminerevo/) ![Mate van functioneren](https://ci-apps.yunohost.org/ci/badges/adminerevo.status.svg) ![Onderhoudsstatus](https://ci-apps.yunohost.org/ci/badges/adminerevo.maintain.svg)
+[![Integratieniveau](https://apps.yunohost.org/badge/integration/adminerevo)](https://ci-apps.yunohost.org/ci/apps/adminerevo/)
+![Mate van functioneren](https://apps.yunohost.org/badge/state/adminerevo)
+![Onderhoudsstatus](https://apps.yunohost.org/badge/maintained/adminerevo)
 
 [![AdminerEvo met Yunohost installeren](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=adminerevo)
 

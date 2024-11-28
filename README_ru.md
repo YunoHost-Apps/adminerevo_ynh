@@ -5,7 +5,9 @@
 
 # AdminerEvo для YunoHost
 
-[![Уровень интеграции](https://dash.yunohost.org/integration/adminerevo.svg)](https://ci-apps.yunohost.org/ci/apps/adminerevo/) ![Состояние работы](https://ci-apps.yunohost.org/ci/badges/adminerevo.status.svg) ![Состояние сопровождения](https://ci-apps.yunohost.org/ci/badges/adminerevo.maintain.svg)
+[![Уровень интеграции](https://apps.yunohost.org/badge/integration/adminerevo)](https://ci-apps.yunohost.org/ci/apps/adminerevo/)
+![Состояние работы](https://apps.yunohost.org/badge/state/adminerevo)
+![Состояние сопровождения](https://apps.yunohost.org/badge/maintained/adminerevo)
 
 [![Установите AdminerEvo с YunoHost](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=adminerevo)
 
