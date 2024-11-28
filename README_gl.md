@@ -5,7 +5,9 @@ NON debe editarse manualmente.
 
 # AdminerEvo para YunoHost
 
-[![Nivel de integración](https://dash.yunohost.org/integration/adminerevo.svg)](https://ci-apps.yunohost.org/ci/apps/adminerevo/) ![Estado de funcionamento](https://ci-apps.yunohost.org/ci/badges/adminerevo.status.svg) ![Estado de mantemento](https://ci-apps.yunohost.org/ci/badges/adminerevo.maintain.svg)
+[![Nivel de integración](https://apps.yunohost.org/badge/integration/adminerevo)](https://ci-apps.yunohost.org/ci/apps/adminerevo/)
+![Estado de funcionamento](https://apps.yunohost.org/badge/state/adminerevo)
+![Estado de mantemento](https://apps.yunohost.org/badge/maintained/adminerevo)
 
 [![Instalar AdminerEvo con YunoHost](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=adminerevo)
 

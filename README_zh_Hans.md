@@ -5,7 +5,9 @@
 
 # YunoHost 上的 AdminerEvo
 
-[![集成程度](https://dash.yunohost.org/integration/adminerevo.svg)](https://ci-apps.yunohost.org/ci/apps/adminerevo/) ![工作状态](https://ci-apps.yunohost.org/ci/badges/adminerevo.status.svg) ![维护状态](https://ci-apps.yunohost.org/ci/badges/adminerevo.maintain.svg)
+[![集成程度](https://apps.yunohost.org/badge/integration/adminerevo)](https://ci-apps.yunohost.org/ci/apps/adminerevo/)
+![工作状态](https://apps.yunohost.org/badge/state/adminerevo)
+![维护状态](https://apps.yunohost.org/badge/maintained/adminerevo)
 
 [![使用 YunoHost 安装 AdminerEvo](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=adminerevo)
 
