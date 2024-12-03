@@ -5,7 +5,9 @@ Ini TIDAK boleh diedit dengan tangan.
 
 # AdminerEvo untuk YunoHost
 
-[![Tingkat integrasi](https://dash.yunohost.org/integration/adminerevo.svg)](https://ci-apps.yunohost.org/ci/apps/adminerevo/) ![Status kerja](https://ci-apps.yunohost.org/ci/badges/adminerevo.status.svg) ![Status pemeliharaan](https://ci-apps.yunohost.org/ci/badges/adminerevo.maintain.svg)
+[![Tingkat integrasi](https://apps.yunohost.org/badge/integration/adminerevo)](https://ci-apps.yunohost.org/ci/apps/adminerevo/)
+![Status kerja](https://apps.yunohost.org/badge/state/adminerevo)
+![Status pemeliharaan](https://apps.yunohost.org/badge/maintained/adminerevo)
 
 [![Pasang AdminerEvo dengan YunoHost](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=adminerevo)
 

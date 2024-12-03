@@ -5,7 +5,9 @@ EZ editatu eskuz.
 
 # AdminerEvo YunoHost-erako
 
-[![Integrazio maila](https://dash.yunohost.org/integration/adminerevo.svg)](https://ci-apps.yunohost.org/ci/apps/adminerevo/) ![Funtzionamendu egoera](https://ci-apps.yunohost.org/ci/badges/adminerevo.status.svg) ![Mantentze egoera](https://ci-apps.yunohost.org/ci/badges/adminerevo.maintain.svg)
+[![Integrazio maila](https://apps.yunohost.org/badge/integration/adminerevo)](https://ci-apps.yunohost.org/ci/apps/adminerevo/)
+![Funtzionamendu egoera](https://apps.yunohost.org/badge/state/adminerevo)
+![Mantentze egoera](https://apps.yunohost.org/badge/maintained/adminerevo)
 
 [![Instalatu AdminerEvo YunoHost-ekin](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=adminerevo)
 
