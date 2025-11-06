@@ -8,12 +8,10 @@ It shall NOT be edited by hand.
   AdminerEvo, packaged for YunoHost
 </h1>
 
-[![Integration level](https://apps.yunohost.org/badge/integration/adminerevo)](https://ci-apps.yunohost.org/ci/apps/adminerevo/)
-![Working status](https://apps.yunohost.org/badge/state/adminerevo)
-![Maintenance status](https://apps.yunohost.org/badge/maintained/adminerevo)
+Database management tool
 
 [![🌐 Official app website](https://img.shields.io/badge/Official_app_website-darkgreen?style=for-the-badge)](https://docs.adminerevo.org/)
-[![Version: 4.8.4~ynh2](https://img.shields.io/badge/Version-4.8.4~ynh2-rgb(18,138,11)?style=for-the-badge)](https://ci-apps.yunohost.org/ci/apps/adminerevo/)
+[![Version: 4.8.4~ynh3](https://img.shields.io/badge/Version-4.8.4~ynh3-rgb(18,138,11)?style=for-the-badge)](https://ci-apps.yunohost.org/ci/apps/adminerevo/)
 
 <div align="center">
 <a href="https://apps.yunohost.org/app/adminerevo"><img height="100px" src="https://github.com/YunoHost/yunohost-artwork/raw/refs/heads/main/badges/neopossum-badges/badge_more_info_on_the_appstore.svg"/></a>
