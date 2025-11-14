@@ -5,7 +5,7 @@ name = "AdminerEvo"
 description.en = "Database management tool"
 description.fr = "Gestionnaire de base de données"
 
-version = "4.8.4~ynh2"
+version = "4.8.4~ynh3"
 
 maintainers = []
 
@@ -15,13 +15,12 @@ website = "https://docs.adminerevo.org/"
 code = "https://github.com/adminerevo/adminerevo"
 
 [integration]
-yunohost = ">= 11.2.30"
+yunohost = ">= 12.1.17"
 helpers_version = "2.1"
 architectures = "all"
 multi_instance = true
 
 ldap = false
-
 sso = false
 
 disk = "50M"
