@@ -5,7 +5,7 @@ name = "AdminerEvo"
 description.en = "Database management tool"
 description.fr = "Gestionnaire de base de données"
 
-version = "4.8.4~ynh3"
+version = "4.8.4~ynh4"
 
 maintainers = []
 
@@ -46,12 +46,14 @@ ram.runtime = "50M"
     [resources.sources.main]
     url = "https://github.com/adminerevo/adminerevo/releases/download/v4.8.4/adminer-4.8.4.php"
     sha256 = "e9a9bc2cc2ac46d6d92f008de9379d2b21a3764a5f8956ed68456e190814b149"
-    rename= "index.php"
+    rename = "index.php"
     in_subdir = false
 
     [resources.sources.css]
-    url = "https://raw.githubusercontent.com/Niyko/Hydra-Dark-Theme-for-Adminer/master/adminer.css"
-    sha256 = "911fc49fd81d34cb45a4be6b955f701d7008938e4050ed6b0e6dae050f1c6443"
+    url = "https://raw.githubusercontent.com/CodeShakingSheep/Hydra-Dark-Theme-for-AdminerEvo/master/adminer.css"
+    sha256 = "cb5a0f9ae57094f69b75d263c5bb37fee70c43f6d6248b1af48d4c6b8970b0a5"
+    extract = false
+    rename = "adminer.css"
     in_subdir = false
 
     [resources.system_user]
