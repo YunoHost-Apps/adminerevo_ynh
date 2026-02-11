@@ -15,7 +15,7 @@ website = "https://docs.adminerevo.org/"
 code = "https://github.com/adminerevo/adminerevo"
 
 [integration]
-yunohost = ">= 12.1.17"
+yunohost = ">= 12.1.38"
 helpers_version = "2.1"
 architectures = "all"
 multi_instance = true
@@ -51,7 +51,7 @@ ram.runtime = "50M"
 
     [resources.sources.css]
     url = "https://raw.githubusercontent.com/CodeShakingSheep/Hydra-Dark-Theme-for-AdminerEvo/master/adminer.css"
-    sha256 = "cb5a0f9ae57094f69b75d263c5bb37fee70c43f6d6248b1af48d4c6b8970b0a5"
+    sha256 = "7d380a1500d3df9be43f765d3a4e788110f74a08511cfdb2d5dcfa050db0f9f5"
     extract = false
     rename = "adminer.css"
     in_subdir = false
